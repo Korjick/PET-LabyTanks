@@ -23,6 +23,6 @@ Technologies Used:
 
 👤 **Bulat Din**
 
-* Website: http://din.bounceme.net/
+* Website: http://din.loginto.me/
 * Github: [@Korjick](https://github.com/Korjick)
 
